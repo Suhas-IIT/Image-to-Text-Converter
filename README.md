@@ -1,4 +1,4 @@
-### Image Captioning
+### Image to Text Converter  
 The Image to Text Converter is a software application that extracts text from images using Optical Character Recognition (OCR). This tool is useful for digitizing printed documents, reading text from images captured by cameras, and processing scanned documents. The project will use Python and popular libraries like OpenCV and Tesseract OCR.
 
 Download the dataset used: https://www.kaggle.com/dataset/e1cd22253a9b23b073794872bf565648ddbe4f17e7fa9e74766ad3707141adeb
